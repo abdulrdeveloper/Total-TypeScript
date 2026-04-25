@@ -1,15 +1,11 @@
-# ts-using-bun
+﻿# TypeScript with Bun
 
-To install dependencies:
+Bun is a modern, fast JavaScript runtime that supports TypeScript natively out of the box. No separate compilation step is required!
 
-```bash
-bun install
-```
+## How to Set This Up Yourself
+1. Make sure Bun is installed on your machine.
+2. Initialize a new project: bun init. This sets up package.json, 	sconfig.json, and an entry point.
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.9. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+## How to Run
+- Run a TS file directly: bun run src/index.ts
+- Install dependencies: bun install <package> (much faster than npm)
