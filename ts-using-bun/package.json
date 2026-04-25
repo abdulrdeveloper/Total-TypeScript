@@ -7,8 +7,8 @@
     "@types/bun": "latest"
   },
   "scripts": {
-    "dev": "bun run src/index.ts",
-    "build":"bun build src/index.ts --outdir dist"
+    "dev": "bun run src/",
+    "build":"bun build src/ --outdir dist"
   },
   "peerDependencies": {
     "typescript": "^5"
