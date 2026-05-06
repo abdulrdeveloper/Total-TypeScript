@@ -8,3 +8,4 @@ Depending on which folder you want to explore, you might need to install:
 - **Bun**: [bun.sh](https://bun.sh) (for bun examples)
 - **Deno**: [deno.land](https://deno.land) (for deno examples)
 - **VS Code Extensions**: For the best experience, install the 'Deno' extension if exploring the Deno folder.
+
