@@ -9,3 +9,12 @@ Depending on which folder you want to explore, you might need to install:
 - **Deno**: [deno.land](https://deno.land) (for deno examples)
 - **VS Code Extensions**: For the best experience, install the 'Deno' extension if exploring the Deno folder.
 
+---
+<div align="center">
+  <sub>
+    You can find more of my work at <a href="https://abdulrdeveloper.me">abdulrdeveloper.me</a> &nbsp;·&nbsp; 
+    Read more posts at <a href="https://blog.abdulrdeveloper.me">blog.abdulrdeveloper.me</a> &nbsp;·&nbsp; 
+    See more projects on <a href="https://github.com/abdulrdeveloper">GitHub</a>
+  </sub>
+</div>
+<br/>
