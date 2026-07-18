@@ -1,3 +1,5 @@
+📦 Moved to abdulrdeveloper/web-dev-for-all — see typescript/total-typescript. Original repo kept archived for star history.
+
 ﻿# Total TypeScript Examples - Student Guide
 
 Welcome to the TypeScript environments playground! As a student learning TypeScript, you will notice there are many ways to configure, run, and build TypeScript projects. This repository provides different starting points.
